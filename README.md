@@ -4,7 +4,7 @@
 
 > [View the live demo](https://collective-london-task-roland.herokuapp.com/)
 
-> [View the repo on Github](https://github.com/rolandjlevy/collective-london-task)
+> [View the repo on Github](https://github.com/rolandjlevy/collective-london-randomusers)
 
 ### Installation and set up
 + Clone this repo
