@@ -2,7 +2,7 @@
 
 ## Technical test
 
-> [View the live demo](https://moviewer.herokuapp.com/)
+> [View the live demo](https://collective-london-task-roland.herokuapp.com/)
 
 > [View the repo on Github](https://github.com/rolandjlevy/collective-london-task)
 
